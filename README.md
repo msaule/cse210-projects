@@ -1,5 +1,5 @@
 # cse210-student-template
-Saul E's work for CSE 210.
+Markuss Saule's work for CSE 210.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
